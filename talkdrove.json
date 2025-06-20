@@ -9,7 +9,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254743706010;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
+      "value": "2348058496605;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -19,12 +19,12 @@
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
       "required": true,
-      "value": ""
+      "value": "Silva~ZdBxgLSJ#Ea9tS1NsIaGkwBuno8H4dj_EfEoMwpaxboE0h7pRx_A"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
@@ -34,7 +34,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     "autoRead": {
       "description": "make it true or false if you want bot to read messages leave it blank if you don't want it to read messages",
@@ -44,17 +44,17 @@
     "AUTO_RECORDING": {
       "description": "make it true or false. true to activate false to deactivate",
       "required": false,
-      "value": "true"
+      "value": "false"
        },
     "AUTO_TYPING": {
       "description": "make it true or false. true to activate false to deactivate",
       "required": false,
-      "value": "true"
+      "value": "false"
        },
     "AUTO_STATUS_LIKE": {
       "description": "make it true or false. true to activate false to deactivate",
       "required": true,
-      "value": "true"
+      "value": "false"
        },
   "WELCOME_MSG": {
       "description": "make it true or false if you want bot to Send welcome message when someone joins a group",
